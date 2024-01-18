@@ -1,9 +1,10 @@
-## Sejarah IoT ##
+Sejarah IoT
+Istilah "internet of things" pertama kali dicetuskan pada tahun 1999 oleh Kevin Ashton saat melakukan presentasi untuk perusahaan Procter & Gamble (P&G)1. Dalam presentasinya, ia menjelaskan mengenai teknologi yang menghubungkan berbagai perangkat dengan bantuan RFID (radio frequency identification) dan mengatur semuanya dengan komputer. Sejak saat itu, teknologi IoT terus berkembang dan mendominasi sektor industri.
 
-## Pengertian IoT ##
+Pengertian IoT
 Internet of Things (IoT) merupakan sebuah jaringan yang menghubungkan objek-objek tertentu.
 
-## Referensi Model IoT ##
+Referensi Model IoT
 1. Physical Devices & Controlers
 2. Connectivity
 3. Edge Computing
@@ -12,8 +13,13 @@ Internet of Things (IoT) merupakan sebuah jaringan yang menghubungkan objek-obje
 6. Application
 7. Collaboration & Processes
 
-## Macam-Macam Kebutuhan IoT ##
+Macam-Macam Kebutuhan IoT
+- Sensor, seperti suhu, kelembapan, tekanan, gerakan, dll.
+- Jaringan. Infrastruktur jaringan yang kuat dan andal untuk menghubungkan perangkat IoT. Ini bisa mencakup WiFi, Bluetooth, Zigbee, LoRa, dan protokol jaringan lainnya.
+- Protokol Komunikasi. Protokol komunikasi standar yang mendukung pertukaran data antara perangkat IoT. Contoh protokol termasuk MQTT, CoAP, dan HTTP.
+- Pemrosesan Data. Kapasitas pemrosesan data yang memadai untuk melakukan analisis data di tepi (edge) atau di cloud, tergantung pada kebutuhan aplikasi.
+- Keamanan. Sistem keamanan yang kuat untuk melindungi perangkat dan data dari serangan siber. Ini mencakup enkripsi data, otentikasi, dan pengamanan perangkat keras dan perangkat lunak.
 
-## Contoh Implementasi IoT ##
+Contoh Implementasi IoT
 - Ketika sedang berpergian kesuatu tempat, dimana rumah tidak ada orang. kita bisa melihat kondisi rumah kita menggunakan CCTV, dan juga kita bisa mematikan dan menghidupkan lampu dari jarak jauh untuk menghemat pemakaian.
 - untuk membersikan rumah 
